@@ -1,0 +1,1 @@
+This repository is focused about my practice with Git and GitHub (or any Git site). Feel free to help if you want.
